@@ -7,10 +7,22 @@ The homepage displays all of the user's current goals
 The plant growth corresponds to how far along the user is on their goal
 <img width="961" alt="IMG_6795" src="https://github.com/cindy-x-liang/Goal-Setting-Frontend/assets/67083541/f9f450ae-545b-4728-9a3a-6929ca31b759">
 
+## Add Goals
+From this page, user's can add their goals
+<img width="941" alt="IMG_1941" src="https://github.com/cindy-x-liang/Goal-Setting-Frontend/assets/67083541/d08f39b3-2343-4860-b89e-5414a5650502">
 
+## Log journal entries
+Users can log journal entries from this page. If the sentiment analysis returns a low score, the plant color and text will change. This result will also be
+factored into 'evaluate goal'.
+<img width="924" alt="IMG_0106" src="https://github.com/cindy-x-liang/Goal-Setting-Frontend/assets/67083541/c278156d-12c9-4770-8284-3ba713288523">
 
+## Evaluate Goals
+Uses GPT intelligence to evaluate a user's goal and progress towards completing it. 
+<img width="909" alt="IMG_3154" src="https://github.com/cindy-x-liang/Goal-Setting-Frontend/assets/67083541/367dbe52-1af4-41b6-b9a0-225d0739abfb">
 
-
+## Chat
+Allows users to chat with AI virtual assistant bot. 
+<img width="953" alt="IMG_2563" src="https://github.com/cindy-x-liang/Goal-Setting-Frontend/assets/67083541/9ea02d63-b113-4677-887c-d7ff522cc2e2">
 
 
 The frontend was built using react. React specific README details are below. 
