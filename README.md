@@ -1,4 +1,19 @@
-# Frontend was built using react
+# Goal Setting
+
+Link to video demo: https://drive.google.com/file/d/1yLgCQ0hzMo9AKZ7iFjXzM8xKj4-Q94BW/view?usp=sharing
+
+## Home Page
+The homepage displays all of the user's current goals
+The plant growth corresponds to how far along the user is on their goal
+<img width="961" alt="IMG_6795" src="https://github.com/cindy-x-liang/Goal-Setting-Frontend/assets/67083541/f9f450ae-545b-4728-9a3a-6929ca31b759">
+
+
+
+
+
+
+
+The frontend was built using react. React specific README details are below. 
 
 
 # Getting Started with Create React App
